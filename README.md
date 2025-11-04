@@ -5,7 +5,7 @@ Personal website for WondaLab — Physics learner, student, and world explorer.w
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Iffan Khan — WondaLab</title>
+  <title>Ismail Khan — WondaLab</title>
   <style>
     body { font-family: Arial; margin: 0; background: #fafafa; color: #222; }
     header { background: #0d1117; color: white; text-align: center; padding: 40px 20px; }
@@ -19,7 +19,7 @@ Personal website for WondaLab — Physics learner, student, and world explorer.w
 <body>
   <header>
     <h1>WondaLab</h1>
-    <p>Student • AI Learner • Motivational Creator</p>
+    <p>Student • Physics Learner • World Explorer</p>
   </header>
 
   <section>
@@ -29,14 +29,14 @@ Personal website for WondaLab — Physics learner, student, and world explorer.w
 
   <section>
     <h2>🧠 About Me</h2>
-    <p>Hi! I'm Iffan Khan, a student passionate about AI, learning, and motivating others through my channel WondaLab.</p>
+    <p>Hi! I'm Ismail Khan, a student passionate about Physics, learning, and physics Wonders through my channel WondaLab.</p>
   </section>
 
   <section>
     <h2>📚 My Projects</h2>
     <ul>
-      <li>AI learning notes and tutorials</li>
-      <li>Motivational videos and blog posts</li>
+      <li>Physics learning notes and tutorials</li>
+      <li>Wonderful videos and blog posts</li>
     </ul>
   </section>
 
