@@ -41,7 +41,7 @@ Personal website for WondaLab — Physics learner, student, and world explorer.w
   </section>
 
   <footer>
-    <p>Contact: <a href="mailto:youremail@example.com">youremail@example.com</a> | 
+    <p>Contact: <a href="ik5076565">youremail@example.com</a> | 
     <a href="https://www.youtube.com/@WondaLab">YouTube</a></p>
   </footer>
 </body>
