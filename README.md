@@ -24,7 +24,7 @@ Personal website for WondaLab — Physics learner, student, and world explorer.w
 
   <section>
     <h2>🎥 Latest YouTube Video</h2>
-    <iframe src="https://www.youtube.com/embed/YOUR_VIDEO_ID" allowfullscreen></iframe>
+    <iframe src="https://youtube.com/shorts/jeBw9aBhTdQ?si=VtVHhMy_Y-RauJRm" allowfullscreen></iframe>
   </section>
 
   <section>
@@ -41,7 +41,7 @@ Personal website for WondaLab — Physics learner, student, and world explorer.w
   </section>
 
   <footer>
-    <p>Contact: <a href="ik5076565">youremail@example.com</a> | 
+    <p>Contact: <a href="ik5076565@gmail.com">youremail@example.com</a> | 
     <a href="https://www.youtube.com/@WondaLab">YouTube</a></p>
   </footer>
 </body>
